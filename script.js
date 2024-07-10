@@ -20,26 +20,3 @@ function appendToDisplay(value) {
     }
  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
